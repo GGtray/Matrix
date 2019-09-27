@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461102248280",
+    "firebase_url": "https://maxtrix-13760.firebaseio.com",
+    "project_id": "maxtrix-13760",
+    "storage_bucket": "maxtrix-13760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461102248280:android:fc283f8f673e4614",
+        "android_client_info": {
+          "package_name": "com.laioffer.matrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461102248280-1qj27oeibbi1kc1ufmei381r9nkp7jjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laioffer.matrix",
+            "certificate_hash": "683e85b9a9fa55f4c80b8aee6c964523d70bb839"
+          }
+        },
+        {
+          "client_id": "461102248280-27gbd1o9sbq3a1ts6kcfhagdupteo8od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuElBDsrHF0lFierD-Yk37qVYtCBSFrp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461102248280-27gbd1o9sbq3a1ts6kcfhagdupteo8od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
